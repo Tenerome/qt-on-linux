@@ -14,7 +14,6 @@
 export QTDIR=QT_gcc目录
 export PATH=$QTDIR/bin:$PATH
 export MANPATH=$QTDIR/man:$MANPATH
-export LD_LIBRARY_PATH=$QTDIR/lib:$LD_LIBRARY_PATH
 ```
 
 enable qt environment：`source /etc/profile`
